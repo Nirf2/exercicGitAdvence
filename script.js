@@ -1,7 +1,7 @@
 const button = document.querySelector("button");
 const body = document.querySelector("body");
 
-const background_color = "purple";
+const background_color = "white";
 const border = "yellow";
 const text = "black";
 
